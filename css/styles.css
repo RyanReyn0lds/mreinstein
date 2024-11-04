@@ -1,0 +1,38 @@
+img{
+    height: 400px;
+    width: 400px;
+}
+body{
+    background-color: #c3f8ff;
+}
+h2{
+    text-align: center;
+}
+li{
+    font-family: Arial;
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+.secondList{
+    font-size: 1rem;
+    font-weight: normal;
+    list-style-type: none;
+}
+a{
+    font-weight: bold;
+}
+.hrefTwo{
+    color: #5cb8e4;
+}
+.imgTwo{
+    height: 100px;
+    width: 100px;
+}
+.styleTwo{
+    list-style-type: none;
+}
+.ThirdList{
+    font-size: 1rem;
+    font-weight: normal;
+    list-style-type:lower-roman ;
+}
